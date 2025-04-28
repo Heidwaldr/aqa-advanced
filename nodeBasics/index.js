@@ -1,6 +1,6 @@
-const chalk = require('chalk');
+import chalk from 'chalk';
 
-console.log(chalk.blue('Hello world!'));
-console.log(chalk.red.bold('Error!'));
-console.log(chalk.green('Success!') + ' Operation completed.');
-
+console.log(chalk.blue('Привіт, світ!'));
+console.log(chalk.green.bold('Це успішне повідомлення!'));
+console.log(chalk.red.underline('Це повідомлення про помилку!'));
+console.log(chalk.yellow.bgBlue('Жовтий текст на синьому фоні'));
