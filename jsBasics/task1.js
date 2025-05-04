@@ -1,0 +1,13 @@
+let firstname = "Привіт Anton";
+console.log(firstname);
+let myNumber = 42;
+console.log(myNumber);
+let emptyvalue = null;
+console.log(emptyvalue);
+let test;
+console.log(test);
+let myboolean=false;
+console.log(myboolean);
+
+
+
