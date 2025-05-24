@@ -10,8 +10,3 @@ for (const { name, email, age } of users) {
   console.log(`Age: ${age}`);
   console.log('------------------');
 }
-
-
-
-
-
